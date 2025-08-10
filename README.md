@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-six-taupe-94.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/parkercai/github-readme-stats)
 -->
-![Top Langs](https://github-readme-stats-six-taupe-94.vercel.app/api/top-langs/?username=parkercai&langs_count=8)
+![Top Langs](https://github-readme-stats-9urvfrg1y-parkercai3gmailcoms-projects.vercel.app/api/top-langs/?username=parkercai&langs_count=8)
