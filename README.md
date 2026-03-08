@@ -1,6 +1,6 @@
 # Hey, I'm Parker
 
-Currently MS Computer Science @ Northeastern University. Previously spent 8 years as an architect at SOM and Gensler, now building software at the intersection of AI and 3D.
+Currently MS Computer Science @ Northeastern University. Former architect at SOM and Gensler, now building software at the intersection of AI and 3D.
 
 ## What I'm building
 
