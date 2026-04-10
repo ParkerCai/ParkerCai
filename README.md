@@ -8,7 +8,7 @@ Currently MS Computer Science @ Northeastern University. Former architect at SOM
 
 **[WhisperO](https://github.com/ParkerCai/WhisperO)** — Push-to-talk dictation. Hold hotkey, speak, text appears at your cursor. Cross-platform, local-first with faster-whisper, optional server backend.
 
-**[Parallel AI](https://parallelai.app)** — Multi-model chat that streams responses from 6+ LLMs side-by-side. Next.js, Supabase, Vercel AI SDK.
+**[Parallel AI](https://parallelai.app)** — Multi-platform AI chat aggregator extension for Chrome.
 
 **[OVA.design](https://ova.design)** — 3D portfolio platform I co-founded. 20+ client projects delivered including a multi-year Decentraland partnership.
 
